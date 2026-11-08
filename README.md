@@ -7,7 +7,7 @@ Modular AI has Conditions,Limits,States and Responses.
 
  * A Condition is a value that is expected to be true or false
  * A Limit is for conditions that rely on more than booleans such as hits taken
- * A State is what the the result of a condition is such as when Condition Close is true then State is Attack
+ * A State is what the result of a condition is such as when Condition Close is true then State is Attack
  * A Response is the action the ai takes when in a given state.
  * A Phase is simply another set of rules followed when the hp of the ai is at some given value,although it could be edited to be changed at any condition
  
