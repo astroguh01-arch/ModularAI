@@ -40,3 +40,5 @@ Modular AI has Conditions,Limits,States and Responses.
   # Uses
   AIs for bosses
   AIs with dialogue based on actions 
+
+  For support  https://discord.gg/97dgGFEzh
