@@ -5,7 +5,7 @@ A lightweight, dependency-free modular AI system for Roblox.
 
 Modular AI has Conditions,Limits,States and Responses.
 
- * A Condition is a value that is expected to be true of false
+ * A Condition is a value that is expected to be true or false
  * A Limitis for conditions that rely on more than booleans such as hits taken
  * A State is what the the result of a condition is such as when Condition Close is true then State is Attack
  * A Response is the action the ai takes when in a given state.
